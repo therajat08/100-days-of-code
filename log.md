@@ -8,3 +8,8 @@
 ### Day 5: January 3, 2018
 **what i did today:** completed the bootstrap challenges and started using jquery. Learn a few things about animate.css
 **Plan for tommorrow:** Will try to complete the JQuery part and start projects. Also i haven't been consistent with the github logs. So hopefully will log everyday from now on                      
+
+### Day 6: January 4, 2018
+**what i did today:** competed jQuery challenges and proceeded to make first project of front-end development
+**Plan for tommorrow:** Will try to finish the tribute page also add as many features as i can to it
+**Thoughts:** I was finding it somewhat hard to get things where they need to be but didn't stop until i got it done as i wanted it to be...but it is worth it
